@@ -6,4 +6,4 @@ The app uses **food2fork** API and **localStorage** (for persistent data).
 
 ![](https://i.imgur.com/FSx27Q5.png)
 
-[Imgur](https://i.imgur.com/CkTrWUa.png)
+![](https://i.imgur.com/CkTrWUa.png)
